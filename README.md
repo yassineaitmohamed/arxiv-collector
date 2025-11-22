@@ -487,11 +487,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
+- **Professor Maxence Mayrand**: For the original idea and inspiration from his [arxivnews](https://github.com/maxencemayrand/arxivnews) project. This tool was developed based on concepts from his work.
 - **arXiv**: For providing free access to scientific papers via their API
-- **Université de Sherbrooke**: Research support
-- **Professor Maxence Mayrand**: Academic supervision
-
----
 
 ## 📧 Contact
 
@@ -501,7 +498,7 @@ Université de Sherbrooke
 
 For questions, suggestions, or collaboration:
 - GitHub Issues: [Report a bug or request a feature]
-- Email: [Your email if you want to include it]
+- Email: [y.aitmohamed@yahoo.com]
 
 ---
 
@@ -520,6 +517,5 @@ If you use this tool in your research, please cite:
 
 ---
 
-**Habibi, happy researching! 🚀**
 
 *Built with ❤️ for the mathematical research community*

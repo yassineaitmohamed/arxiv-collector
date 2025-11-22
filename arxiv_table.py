@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
-"""
-arXiv Collector - Interface Tableau Terminal
-Affichage des articles dans un tableau terminal
-Par Yassine Ait
-"""
+
 
 import sqlite3
 from datetime import datetime

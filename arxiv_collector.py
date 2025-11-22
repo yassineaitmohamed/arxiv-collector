@@ -1,8 +1,5 @@
 #!/usr/bin/env python3
-"""
-arXiv Collector - Collecte et affiche les articles arXiv
-Par Yassine Ait
-"""
+
 
 import sqlite3
 import requests

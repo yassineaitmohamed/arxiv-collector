@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-"""
-arXiv Collector - Interface Graphique Professionnelle
-Interface style LMA pour la collection d'articles arXiv
-Par Yassine Ait Mohamed - Université de Sherbrooke
-"""
 
 import tkinter as tk
 from tkinter import ttk, messagebox

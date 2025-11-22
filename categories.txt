@@ -1,0 +1,9 @@
+# Configuration arXiv Collector
+# Une catégorie par ligne
+
+math.DG
+math.SG
+math-ph
+math.AG
+math.QA
+math.RT

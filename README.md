@@ -3,8 +3,6 @@
 A comprehensive terminal-based tool for collecting, storing, and browsing arXiv papers with support for automated updates and multiple viewing interfaces.
 
 **Author:** Yassine Ait Mohamed  
-**Institution:** Université de Sherbrooke  
-**Research Focus:** Differential Geometry, Symplectic Geometry, Mathematical Physics
 
 ---
 

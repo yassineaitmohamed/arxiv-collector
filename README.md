@@ -481,12 +481,7 @@ Feel free to:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-## 🙏 Acknowledgments
-
-- **Professor Maxence Mayrand**: For the original idea and inspiration from his [arxivnews](https://github.com/maxencemayrand/arxivnews) project. This tool was developed based on concepts from his work.
-- **arXiv**: For providing free access to scientific papers via their API
 
 ## 📧 Contact
 
@@ -500,18 +495,7 @@ For questions, suggestions, or collaboration:
 
 ---
 
-## 📖 Citation
 
-If you use this tool in your research, please cite:
-
-```bibtex
-@software{arxiv_collector,
-  author = {Ait Mohamed, Yassine},
-  title = {arXiv Collector: A Terminal-Based Tool for arXiv Paper Management},
-  year = {2024},
-  url = {https://github.com/yourusername/arxiv-collector}
-}
-```
 
 ---
 
